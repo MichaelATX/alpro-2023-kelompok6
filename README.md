@@ -1,15 +1,10 @@
-## Fruit Freshness Detector
+# Chili Freshness Detection using Computer Vision
 
-Mengecek apakah buah yang difoto masih layak untuk dimakan atau tidak.
-Tambahan fitur: apakah masih mentah atau sudah matang.
-
-Kalau industri: Deteksi secara otomatis dari penampilan. Mengurangi sdm untuk mengeceknya.
-
-Buah: cabai
+Classes: not ripe, ripe, rotten
+Manfaat di bidang industri: Deteksi secara otomatis dari penampilan cabai untuk meningkatkan efisiensi kerja.
 
 
-
-# Kemungkinan lain:
+## Kemungkinan lain:
 1. Apel
 2. Tomat
 
